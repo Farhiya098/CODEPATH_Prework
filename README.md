@@ -24,17 +24,20 @@ The following **required** functionality is completed:
   </div>
 
 ## App Brainstorming (Step 4)
-  1) Youtube 
-      -Personalized recommendations based on watch history and interests
-      -lets you browse while watching
-      -You can pick up where you left off
-  2) Netflix
-      -Skips the intro and auto-plays the next episode
-      -Allows household members to have different viewing histories
-  2) Canva
-      -Hundreds of pre-made templates
-      -Users can easily make graphics with readily apparent design tools, even if they don't know much about computers.
-## Notes
+   1) Youtube 
+       -Personalized recommendations based on watch history and interests
+       -lets you browse while watching
+       -You can pick up where you left off
+   2) Netflix
+       -Skips the intro and auto-plays the next episode
+       -Allows household members to have different viewing histories
+   2) Canva
+       -Hundreds of pre-made templates
+       -Users can easily make graphics with readily apparent design tools, even if they don't know much about computers.
+
+ App Idea:
+  -I want to create a messaging app that, depending on the recipient's preferred language, automatically translates messages in real-time. The application will recognize a message sent in English (or any other language) and immediately show the translated text in the recipient's preferred language, such as Mandarin, Spanish, or French, on their screen. Communication across language barriers would be smooth as a result. Real-time translation, language preference settings for each contact, multilingual support, and the option to view the original message if necessary are all important features. For international friendships, travel, or international business communication, this app may be extremely helpful.
+ ## Notes
 
 Describe any challenges encountered while building the app.
 - I had trouble with step 3.
